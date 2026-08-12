@@ -1,7 +1,7 @@
 <p align="center"><img src="https://files.catbox.moe/on4voc.gif"/></p>
 
 <p align="center">${\textsf{\color{#ff2801}ru⠀/⠀en}}$</p>
-<p align="center">${\textsf{\color{#ff2801}call me⠀berjoza⠀or⠀mjasorubka}}$</p>
+<p align="center">${\textsf{\color{#ff2801}call⠀me⠀berjoza⠀or⠀mjasorubka}}$</p>
 <p align="center">${\textsf{\color{#ff2801}entp⠀⠀⠀sp⠀/⠀sx⠀4w5⠀497⠀⠀⠀mel-cho}}$</p>
 <p align="center">${\textsf{\color{#ff2801}<14⠀dni⠀⠀⠀rp⠀dni⠀⠀⠀antis⠀dni}}$</p>
 
