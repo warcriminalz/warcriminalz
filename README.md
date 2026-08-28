@@ -2,7 +2,7 @@
 
 <p align="center">${\textsf{\color{#ff2801}ru⠀/⠀en}}$</p>
 <p align="center">${\textsf{\color{#ff2801}call⠀me⠀berjoza⠀or⠀mjasorubka}}$</p>
-<p align="center">${\textsf{\color{#ff2801}entp⠀⠀⠀sp⠀/⠀sx⠀4w5⠀497⠀⠀⠀mel-cho}}$</p>
+<p align="center">${\textsf{\color{#ff2801}entp⠀⠀⠀sp⠀/⠀sx⠀4w5⠀486⠀so⠀8w7⠀so⠀6w5⠀⠀⠀mel-cho}}$</p>
 <p align="center">${\textsf{\color{#ff2801}<14⠀dni⠀⠀⠀rp⠀dni⠀⠀⠀antis⠀dni}}$</p>
 
 <p align="center"><img src="https://files.catbox.moe/w7xub0.gif"/></p>
